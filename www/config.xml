@@ -4,11 +4,11 @@
 	id        = "com.omtamil-app-workshop"
 	versionCode="1"
 	version   = "1.0">
-<name> NEW TOP COUNTRIES</name>
+<name> ICON project</name>
 <description>
-A Demo App for Mobile Development Workshop</description>
+ICON project workshop</description>
 <author href="omtamil.com" 
-email="muhelen@omtamil.com">
+email="kevintris@gmail.com">
 MUHELEN MURUGAN
 </author>
 	<gap:platform name="ios" />
